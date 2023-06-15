@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+}
+
+.nav-menu{
+    display: flex;
+    padding:5px;
+    margin-left:50%
+}
+
+.nav-menu li{
+    padding:30px;
+}
+
+.name{
+    align-items: center;
+}
